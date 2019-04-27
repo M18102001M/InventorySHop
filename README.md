@@ -1,3 +1,3 @@
-# InventorySHop
-M1301M
+# OnlineSHop
+Mirmaxmud
 Biz haqimizda bilib olishingiz mumkin
